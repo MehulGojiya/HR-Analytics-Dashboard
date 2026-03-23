@@ -12,5 +12,6 @@ This project presents an interactive HR Analytics Dashboard built in Microsoft E
 <br>
 <br>
 <img src="https://github.com/MehulGojiya/HR-Analytics-Dashboard/blob/9e2556e66953a8ca7a628dd9505c3aac76b0a7db/HR_DATA_Table.png" alt="Image Description" width="600">
+<br>
 
  
